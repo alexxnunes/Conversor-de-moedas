@@ -85,7 +85,7 @@ O projeto conta com um sistema de exceções personalizadas para garantir a resi
 
 ## 👤 Autor
 
-Desenvolvido por **[Seu Nome Aqui]**.
+Desenvolvido por **Alexander Nunes**.
 
 ---
 *Este projeto foi realizado como parte de um desafio de consumo de APIs em Java.*
